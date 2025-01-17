@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinceNL
-- 👀 I’m interested in further strengthening my coding skills
-- 🌱 I’m currently learning everything C#, dotnet related. C# Design Patterns. CI/CD
+- 👀 I’m a dotnet developer
+- 🌱 I’m interested learning everything C#, .NET, Azure (and basically anything techy)
 - 💞️ I’m looking to collaborate on any project that could satisfy my above stated interests
 - 📫 How to reach me through mail @ h_vancampen@msn.com
 
